@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="xZ6Uu6uo0uI9lrr_6pLn" name="Page-1">
+        <mxGraphModel dx="1261" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/mediator/structure.png;" vertex="1" parent="1">
+                    <mxGeometry width="430" height="355.58" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/mediator/example.png;" vertex="1" parent="1">
+                    <mxGeometry x="560" width="447.85" height="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="Class diagram" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="165" y="460" width="100" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

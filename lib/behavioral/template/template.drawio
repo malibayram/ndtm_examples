@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="6yF9j5dZBHWqeUW8LBlf" name="Page-1">
+        <mxGraphModel dx="1198" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kazlauskas.dev/assets/images/template_method-17b97268b95798352d35d4f8547fef00.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="342" height="241" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/template-method/problem.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="270" width="520" height="386" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/template-method/structure.png;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="10" width="340" height="380" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

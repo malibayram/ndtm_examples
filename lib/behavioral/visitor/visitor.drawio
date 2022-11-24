@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="DW34LNRgQ85NP_oIfY5r" name="Page-1">
+        <mxGraphModel dx="1409" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kazlauskas.dev/assets/images/visitor-bcf92313f3f00b553c38ac5074c06535.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="385.38" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kazlauskas.dev/assets/images/visitor_implementation-4d8b9ff654e3e10c13ca5ef322573163.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="500" width="827" height="1031.27" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="sWJOt2c-LUoXyyelhH1H" name="Page-1">
+        <mxGraphModel dx="1198" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kazlauskas.dev/assets/images/state-c0709e8ca78fc6698bdf89217e5380a6.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="520" height="395" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/state/solution-en.png;" vertex="1" parent="1">
+                    <mxGeometry x="25" y="470" width="490" height="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kazlauskas.dev/assets/images/state_implementation-d2dd42cacd9235f0032ed5972d722d4f.png;" vertex="1" parent="1">
+                    <mxGeometry x="570" y="290" width="520" height="319" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

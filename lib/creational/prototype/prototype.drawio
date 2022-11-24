@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="hLOWn2Xe-zWL5yfdG7Mu" name="Page-1">
+        <mxGraphModel dx="1198" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/prototype/structure.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="500" height="400" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/prototype/structure-prototype-cache.png;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="490" width="520" height="454" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://refactoring.guru/images/patterns/diagrams/prototype/example.png;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="1020" width="470" height="330" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
